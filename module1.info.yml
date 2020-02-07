@@ -1,2 +1,4 @@
 name: 'Module One'
 description: 'Practicing Git and creating a module'
+core: 8.x
+type: module
